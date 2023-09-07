@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Jingmei.I originally come  from China and I have been in the United States for 6 years.
-I used to word as an engineer and now I am a full time mom.I am currently learning coding and I aim to become a
-software developer as my new career.
+Hello!
+I'm Jingmei, and I have a unique journey that has taken me from China to
+the United States over the past 6 years. I started my career as an 
+engineer and later became a full-time mom. Currently, I'm passionately
+pursuing coding and aspire to transition into a software developer role 
+as my new career path.
