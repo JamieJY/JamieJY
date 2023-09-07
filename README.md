@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Jingmei.I originally come  from China and I have been in the United States for 6 years.
+I used to word as an engineer and now I am a full time mom.I am currently learning coding and I aim to become a
+software developer as my new career.
